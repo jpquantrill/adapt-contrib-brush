@@ -1,0 +1,23 @@
+{
+  "name": "adapt-contrib-brush”,
+  "version": “1.0.0”,
+  "framework": "^2.0.0",
+  "homepage": "https://github.com/jpquantrill/adapt-contrib-brush",
+  "issues": "https://adaptlearning.atlassian.net/secure/CreateIssueDetails!init.jspa?pid=10100&issuetype=1&priority=6&components=10516",
+  "displayName": “Brush”,
+  "theme": “brush”,
+  "description": "A core bundled theme",
+  "main": "js/brush.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
